@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> أشواق قلبي لك بلا دليل
+> حنيني يكتب قصة بلا نهاية
+> وقلبي يهمس أحبك من البداية
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
