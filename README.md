@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Afkar Btetb3athar |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-btetb3athar/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Afkar Btetb3athar](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
